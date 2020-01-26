@@ -11,8 +11,8 @@
 - [x] Add ZenHub shell to your GitHub repo (5%)
 - [x] Integrate ZenHub notifications into Slack and create #zenhub slack channel for the notifications (5%)
 - [x] Integrate GitHub notifications into Slack and create #github slack channel for the notifications (5%)
-- [ ] Create two Epics with two issues/requirements in each in ZenHub (5%)
-- [ ] Add estimates to each issue (select estimate values at random) (5%)
+- [x] Create two Epics with two issues/requirements in each in ZenHub (5%)
+- [x] Add estimates to each issue (select estimate values at random) (5%)
 - [ ] Create (5%)
       - “Sprint 1” starting on Jan 27, 2020, and ending on Feb 09, 2020
       - “Sprint 2” starting on Feb 10, 2020, and ending on Feb 24, 2020

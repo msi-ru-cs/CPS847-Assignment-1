@@ -19,8 +19,8 @@
 - [x] For each Epic, assign one issue/requirement to Sprint 1 and the other one -- to Sprint 2 (5%)
 - [x] Close first issue in Sprint 1 (5%)
 - [x] Close Sprint 1 (5%)
-- [ ] Add users msi-ru-cs and avm-ru-cs to GitHub account (5%)
-- [ ] Send an invite to your slack group to mohammad.s.islam@ryerson.ca (5%)
+- [x] Add users msi-ru-cs and avm-ru-cs to GitHub account (5%)
+- [x] Send an invite to your slack group to mohammad.s.islam@ryerson.ca (5%)
 - [ ] Build Slack bot echoing questions asked to the bot, add it to your Slack group (10%)
       - You will have to run your bot from your machine in the lab so that we can validate its functionality
 - [ ] Commit the source code of your Slack bot to GitHub repository (5%)

@@ -9,8 +9,8 @@
 - [x] Create Slack Team (i.e., workspace) for your lab group
 - [x] Create GitHub repo for your group
 - [x] Add ZenHub shell to your GitHub repo (5%)
-- [ ] Integrate ZenHub notifications into Slack and create #zenhub slack channel for the notifications (5%)
-- [ ] Integrate GitHub notifications into Slack and create #github slack channel for the notifications (5%)
+- [x] Integrate ZenHub notifications into Slack and create #zenhub slack channel for the notifications (5%)
+- [x] Integrate GitHub notifications into Slack and create #github slack channel for the notifications (5%)
 - [ ] Create two Epics with two issues/requirements in each in ZenHub (5%)
 - [ ] Add estimates to each issue (select estimate values at random) (5%)
 - [ ] Create (5%)

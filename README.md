@@ -13,12 +13,12 @@
 - [x] Integrate GitHub notifications into Slack and create #github slack channel for the notifications (5%)
 - [x] Create two Epics with two issues/requirements in each in ZenHub (5%)
 - [x] Add estimates to each issue (select estimate values at random) (5%)
-- [ ] Create (5%)
+- [x] Create (5%)
       - “Sprint 1” starting on Jan 27, 2020, and ending on Feb 09, 2020
       - “Sprint 2” starting on Feb 10, 2020, and ending on Feb 24, 2020
-- [ ] For each Epic, assign one issue/requirement to Sprint 1 and the other one -- to Sprint 2 (5%)
-- [ ] Close first issue in Sprint 1 (5%)
-- [ ] Close Sprint 1 (5%)
+- [x] For each Epic, assign one issue/requirement to Sprint 1 and the other one -- to Sprint 2 (5%)
+- [x] Close first issue in Sprint 1 (5%)
+- [x] Close Sprint 1 (5%)
 - [ ] Add users msi-ru-cs and avm-ru-cs to GitHub account (5%)
 - [ ] Send an invite to your slack group to mohammad.s.islam@ryerson.ca (5%)
 - [ ] Build Slack bot echoing questions asked to the bot, add it to your Slack group (10%)

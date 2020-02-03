@@ -23,7 +23,7 @@
 - [x] Send an invite to your slack group to mohammad.s.islam@ryerson.ca (5%)
 - [ ] Build Slack bot echoing questions asked to the bot, add it to your Slack group (10%)
       - You will have to run your bot from your machine in the lab so that we can validate its functionality
-- [ ] Commit the source code of your Slack bot to GitHub repository (5%)
+- [x] Commit the source code of your Slack bot to GitHub repository (5%)
 - [ ] Create file ./git\_tst/index.html with some content (5%)
 - [ ] Create two additional branches and modify./git\_tst/index.html in both of these branches in such a way that a merge conflict will be provoked. Merge both branches into the master branch and resolve the conflict (10%)
 - [ ] While committing the code in step 17, close one of the issues created in step 6 using commit message. (5%)

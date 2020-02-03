@@ -38,4 +38,4 @@ Submit to D2L
 - A URL of your GitHub repo
 - A URL of your Slack group (workspace)
 - A snapshot of the burndown chart for Sprint 1
-- A snapshot of ythe velocity tracking chart
+- A snapshot of the velocity tracking chart

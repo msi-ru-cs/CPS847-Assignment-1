@@ -25,8 +25,8 @@
       - You will have to run your bot from your machine in the lab so that we can validate its functionality
 - [x] Commit the source code of your Slack bot to GitHub repository (5%)
 - [x] Create file ./git\_tst/index.html with some content (5%)
-- [ ] Create two additional branches and modify./git\_tst/index.html in both of these branches in such a way that a merge conflict will be provoked. Merge both branches into the master branch and resolve the conflict (10%)
-- [ ] While committing the code in step 17, close one of the issues created in step 6 using commit message. (5%)
+- [x] Create two additional branches and modify./git\_tst/index.html in both of these branches in such a way that a merge conflict will be provoked. Merge both branches into the master branch and resolve the conflict (10%)
+- [x] While committing the code in step 17, close one of the issues created in step 6 using commit message. (5%)
 - [ ] Create a pull request with a branch name cps847-pull-1 for some modification of ./git\_tst/index.html; do the code review (by commenting on the commit in the pull request); merge and close the commit. (10%)
 
 
